@@ -9,6 +9,7 @@
 * Machine learning
 * Data structures
 * Java
+* Python
 
 ## Experience
 
